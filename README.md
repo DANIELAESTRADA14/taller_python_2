@@ -1,6 +1,6 @@
 <h1 align="center"> Taller Python segundo momento </h1>
 <p align="center">
- <img src="https://firebasestorage.googleapis.com/v0/b/logos-1a888.appspot.com/o/logo.png?alt=media&token=0fac1960-baec-4075-84a2-59ccf1e3ca7e" 
+ <img src="https://firebasestorage.googleapis.com/v0/b/logos-1a888.appspot.com/o/git.png?alt=media&token=16ad6514-d12b-482c-9896-60807f886923" 
  width="300" height="">  
 </p>
 <hr>
