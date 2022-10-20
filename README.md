@@ -10,6 +10,7 @@
 <li> Manuela Taborda </li>
 <li> Mateo Tavera  </li>
  </ul> 
+<h4>Progreso:</h4> 
 <ol>
   <li> <span> Lista de ciclistas con menú de opciones </span> </li>
   <li> <span> Función lambda para comparar entre dos números </span> </li>
