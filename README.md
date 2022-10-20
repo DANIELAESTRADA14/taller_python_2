@@ -1,7 +1,7 @@
 <h1 align="center"> Taller Python segundo momento </h1>
 <p align="center">
  <img src="https://firebasestorage.googleapis.com/v0/b/logos-1a888.appspot.com/o/git.png?alt=media&token=16ad6514-d12b-482c-9896-60807f886923" 
- width="500" height="500">  
+ width="10000" height="500">  
 </p>
 <hr>
 <h4>Programado por:</h4>
